@@ -16,7 +16,7 @@ Prerequisites
 
 # Clone the repository
 
-git clone <repository-url>
+git clone <[repository-url](https://github.com/sajitha00/etl)>
 cd social-media-ads-analysis
 
 # Install dependencies
